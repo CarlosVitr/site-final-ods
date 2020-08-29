@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 html,body{
-    margin:1px;
+    margin:0;
      padding:0;
 }
 header {
@@ -15,7 +15,7 @@ header {
 #logo{
   width:90px;
   position:absolute;
-  top:10px;
+  top:9px;
   margin-left: 5%;
 }
 #menu{
@@ -23,7 +23,6 @@ header {
     margin-right: 5%;
     list-style:none;
     margin-top:0px;
-    color: white;
 }
 li{
     float:left;
