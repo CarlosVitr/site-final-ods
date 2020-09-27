@@ -24,6 +24,9 @@ header {
     list-style:none;
     margin-top:0px;
 }
+a{
+   text-decoration:none;
+}
 li{
     float:left;
     padding: 20 10 20 10;
