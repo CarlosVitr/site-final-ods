@@ -1,4 +1,4 @@
-<h1 align="center"> Site <a href="https://odsbrasil.gov.br/"> Sustainable Development Goals</a> </h1>
+<h1 align="center"> Site of 16th <a href="https://odsbrasil.gov.br/"> Sustainable Development Goals</a> </h1>
 
 ![GitHub forks](https://img.shields.io/github/forks/carlosvitr/site-final-ods?color=4ed&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/site-final-ods?color=4ed&style=for-the-badge)
