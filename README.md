@@ -21,7 +21,7 @@ A website built in HTML and Css with the intention of learning about such techno
 Here is the Site Demo
 
 <p align="left">
-<a href="https://ods-16.netlify.app/"><img align="center"  width="185" height="75" src="button_demonstration.png"></a>
+<a href="https://ods-16.netlify.app/"><img align="center"  width="285" height="75" src="button_demonstration.png"></a>
 </p>
 
 
