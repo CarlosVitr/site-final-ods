@@ -32,6 +32,6 @@ Here is the Site Demo
  
 # License
 
-Site - ODS16© <a href="http://carlosvitor.ml">Carlos Vítor</a>, Launched under the [License CC-1.0](https://github.com/CarlosVitr/site-final-ods/blob/master/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/site-final-ods/graphs/contributors">collaborators</a>.
+**Site - ODS16©** <a href="http://carlosvitor.ml">Carlos Vítor</a>, Launched under the [License CC-1.0](https://github.com/CarlosVitr/site-final-ods/blob/master/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/site-final-ods/graphs/contributors">collaborators</a>.
 > Github:<a href="https://github.com/carlosvitr">@CarlosVitr</a> • Twitter:<a href="https://twitter.com/ClsVitor">@ClsVitor</a> • LinkedIn:<a href="https://www.linkedin.com/in/CarlosVitor">Carlos Vítor</a>.
 
